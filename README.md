@@ -76,10 +76,10 @@ Caso você esteja buscando um local onde possa adquirir novos conhecimentos e co
   
 **Algumas de nossas vagas**
 
-- Developers Back-end - https://b2w.gupy.io/jobs/23866
-- Developers Back-end Pl/Sr - https://b2w.gupy.io/jobs/22423
-- Developers Back-end Python Pl/Sr - https://b2w.gupy.io/jobs/21790
-- Developers Front-end - https://b2w.gupy.io/jobs/19700
+- Developers Back-end Sr - https://b2w.gupy.io/jobs/208978
+- Developers Front-end Jr - https://b2w.gupy.io/jobs/211028
+- Developers Front-end Pl - https://b2w.gupy.io/jobs/211018
+- Developers Front-end Sr - https://b2w.gupy.io/jobs/211023
 - Outras vagas - https://b2w.gupy.io/
 
 **Nosso Programa de Estágio**
